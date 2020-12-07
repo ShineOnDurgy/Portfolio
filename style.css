@@ -1,0 +1,55 @@
+/* CSS formatting for diego_mercado_portfolio */
+
+body {
+	background-color: #2A9D8F;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #264653;
+}
+
+div {
+  background-color: #E9C46A;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+footer {
+  text-align: center; 
+}
+
+h1 {
+	text-align: center;
+  height: 25px;
+}
+
+h2 {
+  text-align: left;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+
+header {
+  
+}
+
+nav {
+	font-size: 15px;
+  text-align: center;
+  background-color: #F4A261;
+  border-radius: 90%;
+}
+
+
+/* classes go below */
+
+.image-center {
+  display: block;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 20px;
+}
+
